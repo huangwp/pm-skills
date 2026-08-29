@@ -1,0 +1,19 @@
+{
+  "name": "pm-go-to-market",
+  "version": "2.1.0",
+  "description": "Go-to-market skills for PMs: GTM strategy, growth loops, GTM motions, beachhead segments, and ideal customer profiles.",
+  "author": {
+    "name": "Paweł Huryn",
+    "url": "https://www.productcompass.pm"
+  },
+  "homepage": "https://github.com/phuryn/pm-skills",
+  "repository": "https://github.com/phuryn/pm-skills",
+  "license": "MIT",
+  "skills": "./skills/",
+  "commands": "./commands/",
+  "interface": {
+    "displayName": "Go To Market",
+    "shortDescription": "Go-to-market skills for PMs: GTM strategy, growth loops, GTM motions, beachhead segments, and ideal ",
+    "category": "Product Management"
+  }
+}

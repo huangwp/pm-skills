@@ -1,0 +1,19 @@
+{
+  "name": "pm-ai-shipping",
+  "version": "2.1.0",
+  "description": "AI Shipping Kit — for PMs and founders accountable for AI-built code. Document a vibe-coded app, audit it for intended-vs-implemented security gaps and performance issues, and produce a reviewer-ready shipping packet.",
+  "author": {
+    "name": "Paweł Huryn",
+    "url": "https://www.productcompass.pm"
+  },
+  "homepage": "https://github.com/phuryn/pm-skills",
+  "repository": "https://github.com/phuryn/pm-skills",
+  "license": "MIT",
+  "skills": "./skills/",
+  "commands": "./commands/",
+  "interface": {
+    "displayName": "Ai Shipping",
+    "shortDescription": "AI Shipping Kit — for PMs and founders accountable for AI-built code. Document a vibe-coded app, aud",
+    "category": "Product Management"
+  }
+}
